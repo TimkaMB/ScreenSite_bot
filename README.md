@@ -1,5 +1,5 @@
-```
 # Telegram Screenshot Bot
+
 
 Это Telegram-бот, который принимает домен или IP-адрес сайта и возвращает скриншот указанного сайта.
 
@@ -33,9 +33,6 @@
 
 4. **Настрой токен бота**:
    - Получи токен у @BotFather в Telegram.
-   - Укажи токен как переменную окружения:
-     - На Windows: `set TELEGRAM_BOT_TOKEN=твой_токен`
-     - На Linux/Mac: `export TELEGRAM_BOT_TOKEN=твой_токен`
 
 5. **Запусти бота**:
    ```bash
